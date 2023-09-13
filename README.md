@@ -5,7 +5,7 @@
 
 **Fall**
 
-|# |session |keywords |
+|#|session|keywords|
 |:--:||:--:||:--:|
 |1|code cells|[variable,assign]()]
 
