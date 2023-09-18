@@ -24,7 +24,6 @@
 |1 |Code Cells ✨ | [variable, assign] (https://github.com/JJW421/NLP_2023/blob/main/1_CodeCells_Basic_.ipynb)|
 |2 | Five Types of Data |
 
-
 # 😊😴 python language
 ### [Jump to Python 점프투파이썬](https://wikidocs.net/book/1)
 
